@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @binghecode
-- 👀 I’m interested in star wars, coding, hqs, books, series and more...
-- 🌱 I’m currently learning Python, Javascript, HTML and CSS
-- 😄 Pronouns: HE/HIM or THEY/THEM
+- 👋 Olá, sou @binghecode!
+- 🌱 Dev em formação com foco em Java e C.
+- 👀 Tenho interesse em HQs, Star Wars, programação, estudo de línguas e muito mais.
+- 😄 Pronomes: ele/dele
 
 
 <!---
